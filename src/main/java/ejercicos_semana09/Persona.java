@@ -1,7 +1,7 @@
 package ejercicos_semana09;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author ACER
  */
 class Persona {
     

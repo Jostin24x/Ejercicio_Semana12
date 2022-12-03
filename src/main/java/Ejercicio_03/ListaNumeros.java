@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author ACER
  */
 public class ListaNumeros {
     

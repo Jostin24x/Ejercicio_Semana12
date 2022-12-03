@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author ACER
  */
 public class Ejercicio_01 {
     public static void main(String args[]){

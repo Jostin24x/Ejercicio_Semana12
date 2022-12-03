@@ -2,7 +2,7 @@ package ejercicos_semana09;
 import java.util.ArrayList;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author ACER
  */
 public class Ejercicos_Semana09 {
 

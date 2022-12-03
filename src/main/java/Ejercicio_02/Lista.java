@@ -1,7 +1,7 @@
 package Ejercicio_02;
 /**
  *
- * @author Josthen Gabriel Chauca
+ * @author ACER
  */
 public class Lista {
     private Nodo primero;
